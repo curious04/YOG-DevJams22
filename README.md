@@ -33,6 +33,11 @@ YOG A web-based ML based yoga posture correction app. It is built over `TENSORFL
 * Click on the `Start Journey` to start and press open projection button to start the model.
 
 ![](https://miro.medium.com/max/1400/1*DhRas61lixJF4RynMf5goA.jpeg)
+
+## So what are you waiting for start doing yoga
+
+<img src= https://user-images.githubusercontent.com/72687585/193349106-51481769-28ef-418a-ab49-1b2b5ba458c4.gif height=250 width=250 align='right'>
+
 ## 🌈Installing (from source code):
 
 * Clone this repository to your local machine.
