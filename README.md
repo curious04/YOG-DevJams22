@@ -5,9 +5,9 @@
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
-![](https://img.shields.io/github/forks/RishiPratap/YOG-APP-MesoHacks-2022?color=green&style=for-the-badge)
-![](https://img.shields.io/github/stars/RishiPratap/YOG-APP-MesoHacks-2022?color=blueviolet&style=for-the-badge)
-![](https://img.shields.io/github/license/RishiPratap/YOG-APP-MesoHacks-2022?color=blue&style=for-the-badge)
+![](https://img.shields.io/github/forks/curious04/YOG-DevJams22?color=green&style=for-the-badge)
+![](https://img.shields.io/github/stars/curious04/YOG-DevJams22?color=blueviolet&style=for-the-badge)
+![](https://img.shields.io/github/license/curious04/YOG-DevJams22?color=blue&style=for-the-badge)
 ![](https://img.shields.io/badge/version-1.0-pink.svg?style=for-the-badge)
 
 `YOG A web-based ML based yoga posture correction app.` 
